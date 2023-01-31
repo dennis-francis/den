@@ -5,10 +5,10 @@ blue
 purple
 green
 orange
-ponies
 unicorn
 yellow
 pink
 grey
+ponies
 These are the colors of the rainbow.
 And the unicorn. 
